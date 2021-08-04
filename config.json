@@ -1,0 +1,6 @@
+{
+  "token": "bot token here",
+  "prefix": "default command prefix here",
+  "mongoPath": "mongo path here",
+  "redisPath": "redis path here"
+}
